@@ -1,4 +1,4 @@
-module github.com/able-sbcadmin/hugo-mod-bootstrap-scss/tree/v4
+module github.com/able-sbcadmin/hugo-mod-bootstrap-scss/v4
 
 go 1.16
 
